@@ -1,4 +1,8 @@
 var searchData=
 [
-  ['post_0',['post',['../classsrc_1_1api_1_1views_1_1_join_hunt.html#a12f3ead39d5fe267a1fd523d0fac09ac',1,'src.api.views.JoinHunt.post()'],['../classsrc_1_1api_1_1views_1_1_leave_hunt.html#a5e33b8a2924e71aecddccda52c7b2d53',1,'src.api.views.LeaveHunt.post()'],['../classsrc_1_1api_1_1views_1_1_user_register.html#a9f03194b5b4505a6c2a3ceb95d4ca5c3',1,'src.api.views.UserRegister.post()'],['../classsrc_1_1api_1_1views_1_1_login_with_token.html#a4fe6888ce65d8d63d9d28d378a2e63a6',1,'src.api.views.LoginWithToken.post()'],['../classsrc_1_1api_1_1views_1_1_custom_auth_token.html#a6b79329312aa0b2d3373efc93d6fb859',1,'src.api.views.CustomAuthToken.post()'],['../classsrc_1_1api_1_1views_1_1_complete_hunt.html#a0a2d51b7a7f3c8bc2011b5a6f5fc662f',1,'src.api.views.CompleteHunt.post()']]]
+  ['main_0',['main',['../namespacemanage.html#afd5b00260cc364aa5bde07e227c6ea78',1,'manage']]],
+  ['manage_1',['manage',['../namespacemanage.html',1,'']]],
+  ['meta_2',['Meta',['../classsrc_1_1api_1_1models_1_1_location_1_1_meta.html',1,'src.api.models.Location.Meta'],['../classsrc_1_1api_1_1models_1_1_treasure_1_1_meta.html',1,'src.api.models.Treasure.Meta'],['../classsrc_1_1api_1_1serializers_1_1_hunt_serializer_1_1_meta.html',1,'src.api.serializers.HuntSerializer.Meta'],['../classsrc_1_1api_1_1serializers_1_1_user_serializer_1_1_meta.html',1,'src.api.serializers.UserSerializer.Meta']]],
+  ['migration_3',['Migration',['../classsrc_1_1api_1_1migrations_1_10001__initial_1_1_migration.html',1,'src.api.migrations.0001_initial.Migration'],['../classsrc_1_1api_1_1migrations_1_10002__auto__20211111__1020_1_1_migration.html',1,'src.api.migrations.0002_auto_20211111_1020.Migration'],['../classsrc_1_1api_1_1migrations_1_10003__auto__20211117__1829_1_1_migration.html',1,'src.api.migrations.0003_auto_20211117_1829.Migration']]],
+  ['models_4',['models',['../namespacemodels.html',1,'']]]
 ];

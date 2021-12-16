@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['models_0',['models',['../namespacemodels.html',1,'']]]
+  ['manage_0',['manage',['../namespacemanage.html',1,'']]],
+  ['models_1',['models',['../namespacemodels.html',1,'']]]
 ];
