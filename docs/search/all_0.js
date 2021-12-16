@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_5f_5fstr_5f_5f_0',['__str__',['../classsrc_1_1api_1_1models_1_1_user.html#ab11888a7939a33cf04496a141718d45b',1,'src::api::models::User']]]
+  ['_26mdash_3b_20required_20installations_20_26mdash_3b_0',['&amp;mdash; Required Installations &amp;mdash;',['../md__r_e_a_d_m_e.html',1,'']]]
 ];
